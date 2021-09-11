@@ -4,10 +4,10 @@ export default {
     SITE_URL: 'https://techmatrix.uk',
 
     // Your WooCommerce Consumer Key
-    WC_CONSUMER_KEY: 'ck_f9653f53cf3cd38dbdff253366d3b2bc820d8a1b',
+    WC_CONSUMER_KEY: '',
 
     // Your WooCommerce Consumer Secret.
-    WC_CONSUMER_SECRET: 'cs_0006e3ed729af09f822ed9eb25b9566ba78b0db2',
+    WC_CONSUMER_SECRET: '',
 
     // Default products count will fetch everytime on category products page.
     PRODUCTS_PER_PAGE: 10,
